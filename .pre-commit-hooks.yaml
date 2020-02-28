@@ -5,4 +5,5 @@
   language: system
   entry: dotenv-linter
   pass_filenames: false
+  verbose: true
   files: .env
