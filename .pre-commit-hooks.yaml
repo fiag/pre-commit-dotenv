@@ -1,0 +1,8 @@
+---
+- id: dotenv-linter
+  name: .env linter
+  description: Validates .env file
+  language: system
+  entry: dotenv-linter
+  pass_filenames: false
+  files: .env
